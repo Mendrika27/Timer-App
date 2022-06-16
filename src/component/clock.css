@@ -1,0 +1,17 @@
+.clock {
+    color : #00FF00;
+    font-size: 100px;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    margin-top: 20%;
+}
+body{
+  background-color:black ;
+  font-family: url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;900&display=swap');
+}
+.mode {
+  padding: 20px;
+  background-color: #00FF00;
+  align-items: center;
+
+}
