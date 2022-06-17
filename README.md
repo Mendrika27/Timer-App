@@ -1,2 +1,2 @@
 # Timer-App
- A clock  react apprlication
+ A clock  react application (unfinished)
